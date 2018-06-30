@@ -545,9 +545,9 @@
   <project path="tools/test/connectivity" name="platform/tools/test/connectivity" groups="pdk" remote="aosp" />
   <project path="tools/tradefederation/contrib" name="platform/tools/tradefederation/contrib" groups="pdk,tradefed" remote="aosp" />
   <project path="tools/tradefederation/core" name="platform/tools/tradefederation" groups="pdk,tradefed" remote="aosp" />
-  <project path="device/micromax/caffeine" name="frap130/android_device_caffeine" revision="rrO" />
+  <!-- <project path="device/micromax/caffeine" name="frap130/android_device_caffeine" revision="rrO" />
   <project path="vendor/micromax/caffeine" name="frap130/android_vendor_caffeine" revision="master" />
-  <project path="kernel/micromax/caffeine" name="frap130/android_kernel_caffeine" revision="oreo" />
+  <project path="kernel/micromax/caffeine" name="frap130/android_kernel_caffeine" revision="oreo" /> -->
 
   <include name="snippets/lineage.xml" />
   <include name="snippets/rr.xml" />
